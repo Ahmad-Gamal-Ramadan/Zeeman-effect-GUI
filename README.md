@@ -1,6 +1,6 @@
 ## ⚛️ Zeeman Effect Simulator (GUI)
 
-### 📌 Overvie
+### 📌 Overview
 A Python-based graphical user interface (GUI) for simulating the Zeeman effect in atomic systems.  
 The tool supports Normal, Anomalous, and Hyperfine Zeeman splitting, allowing users to explore energy level behavior under external magnetic fields.
 
